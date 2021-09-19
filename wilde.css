@@ -1,0 +1,24 @@
+h4,h5,p
+{
+    font-size: medium;
+    color:  black;
+}
+div p:hover{
+    background-color: lightseagreen;
+}
+.LADY 
+{
+    color:orangered;
+}
+.HESTER
+{
+    color: mediumorchid;
+}
+.SIR 
+{
+    color:green;
+}
+.HESTER
+{
+    color:blueviolet;
+}
