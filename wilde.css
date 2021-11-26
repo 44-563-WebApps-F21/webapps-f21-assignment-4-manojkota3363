@@ -38,7 +38,33 @@ th, td {
   }
   span h5:hover{
       text-shadow: 2px 2px;
-      border: darkgoldenrod;
+      border: solid;
       
       
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  .back {
+    background-image: url(C:\Users\S545400\Documents\Lab web apps\webapps-f21-assignment-4-manojkota3363\w.jpg);
   }
